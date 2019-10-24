@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  Karam
+
+  Created by Ramez Adnan on 8/9/19.
+  Copyright © 2019 musbah. All rights reserved.
+*/
+"Can't be Empty" = "لا يمكن ان يكون فارغ";
+"Email Not Valid" = "البريد الالكتروني غير صحيح";
+"Email" = "البريد الالكتروني";
+"Password" = "كلمة المرور";
+"Start deliver" = "بدأ التوصيل";
+"Open Orders" = "الطلبات";
+"Completed" = "المكتملة";
+"Completed Orders" = "الطلبات المكتملة";
+"Order Products" = "طلب المنتجات";
+"New" = "جديد";
+"Preparing" = "تحضير";
+"Ready" = "جاهز";
+"onDelivery" = "في الطريق";
+"Complete" = "مكتمل";
+"My Orders" = "طلباتي";
+"Offer" = "العروض";
+"Chat" = "الدردشة";
+"Settings" = "الاعدادات";
+"Contact us" = "تواصل معنا";
+"Notifcation" = "الاشعارات";
+"Deal Day" = "العروض اليومية";
+"Add Deal Day" = "اضافة عرض يومي";
+"Products" = "المنتجات" ;
+"Add Prodect"  = "اضافة منتج";
+"All" = "الكل";
+"Please enter your country at the map" = "يرجى ادخال موقعمك على الخريطة";
+"Reset Password" = "اعادة تعيين كلمة المرور";
+
+"Name :" = "الإسم :";
+"| Count :" = "| الكمية :";
+"| Price :" = "| السعر :";
+"Spectial Request :" = "طلب خاص :";
+" SAR" = "ر.س";
+"SAR" = "ر.س";
+
+"dilevery" = "توصيل";
+"cash" = "نقداً";
+
+"new" = "جديد";
+"preparing" = "تحضير";
+"ready" = "جاهز";
+"onDelivery" = "في الطريق";
+"complete" = "مكتمل";
+
+//"Ok"
+//
+//"Please enter your Time from"
+//"Please enter your Time to"
+//"Please enter your country"
+//"Please enter your city"
+//"Please enter your type food"
+//"chose one photo at lest"
+//"Error"
+//"Network Connection Error"
+//"Please enter your delivery Cost"
+//"must be agree"

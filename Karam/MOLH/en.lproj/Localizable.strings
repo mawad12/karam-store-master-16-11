@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  Karam
+
+  Created by Ramez Adnan on 8/9/19.
+  Copyright © 2019 musbah. All rights reserved.
+*/
+
+"Can't be Empty" = "Can't be Empty";
+"Email Not Valid"  = "Email Not Valid";
+"Email" = "Email";
+"Password" = "Password";
+"Reset Password" = "Reset Password";
+"Name :" = "Name :";
+"| Count :" = "| Count :";
+"| Price :" = "| Price :";
+"Spectial Request :" = "Spectial Request :";
+" SAR" = "SAR";
+
+
+//lblNameText.text = "Name :".localized
+//lblCountText.text = "| Count :".localized
+//lblPriceText.text = "| Price :".localized
+//lblSpectialRequestText.text = "Spectial Request :".localized

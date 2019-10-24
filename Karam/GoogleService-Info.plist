@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>666245746412-vm12jmh46j4taad1mp6iuljq1t12v2mh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.666245746412-vm12jmh46j4taad1mp6iuljq1t12v2mh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD4XGR8jHqOvEVaED83VY9M3rKU4Hoc_aQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>666245746412</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hexa.KaramServiceProviders</string>
+	<key>PROJECT_ID</key>
+	<string>karam-65755</string>
+	<key>STORAGE_BUCKET</key>
+	<string>karam-65755.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:666245746412:ios:6e9213c8ddcababb</string>
+	<key>DATABASE_URL</key>
+	<string>https://karam-65755.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Gaza"; ObjectID = "0pm-oq-zuv"; */
+"0pm-oq-zuv.text" = "Gaza";
+
+/* Class = "UILabel"; text = "on Delivery"; ObjectID = "5fw-b0-o5p"; */
+"5fw-b0-o5p.text" = "on Delivery";
+
+/* Class = "UILabel"; text = "059000000"; ObjectID = "8Pk-5x-bLM"; */
+"8Pk-5x-bLM.text" = "059000000";
+
+/* Class = "UILabel"; text = "Total : 100$"; ObjectID = "JZV-D4-Zlw"; */
+"JZV-D4-Zlw.text" = "السعر الكلي : 100$";
+
+/* Class = "UILabel"; text = "Order ID : "; ObjectID = "LAO-7A-Uip"; */
+"LAO-7A-Uip.text" = "رقم الطلب : ";
+
+/* Class = "UILabel"; text = "Customer mobile : "; ObjectID = "QMw-ns-45H"; */
+"QMw-ns-45H.text" = "رقم الزبون : ";
+
+/* Class = "UILabel"; text = "123215435"; ObjectID = "RCy-Oo-upB"; */
+"RCy-Oo-upB.text" = "123215435";
+
+/* Class = "UILabel"; text = "user name"; ObjectID = "ZCq-FU-XqL"; */
+"ZCq-FU-XqL.text" = "الاسم";
+
+/* Class = "UILabel"; text = "City :"; ObjectID = "rAb-MN-QCM"; */
+"rAb-MN-QCM.text" = "المدينة :";
+
+/* Class = "UILabel"; text = "12/2/2019"; ObjectID = "ucK-EZ-7yM"; */
+"ucK-EZ-7yM.text" = "12/2/2019";
+
+/* Class = "UILabel"; text = "Customer name : "; ObjectID = "vPi-AA-2jV"; */
+"vPi-AA-2jV.text" = "اسم الزبون : ";
